@@ -1,0 +1,1766 @@
+
+.desktop {
+  background-color: #09e5ff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+  min-width: 100vw;
+}
+
+.desktop .div {
+  background-color: #09e5ff;
+  overflow: hidden;
+  width: 1728px;
+  height: 8640px;
+  position: relative;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1679px;
+  height: 249px;
+  top: 8376px;
+  left: 25px;
+  border-radius: 30px;
+  border: 3px solid;
+  border-color: #f7ff83;
+  background: linear-gradient(180deg, rgb(247, 255, 131) 0%, rgb(9, 229, 255) 100%);
+}
+
+.desktop .view {
+  position: relative;
+  width: 1613px;
+  height: 171px;
+  top: 36px;
+  left: 37px;
+}
+
+.desktop .flexcontainer {
+  gap: 10px;
+  width: 194px;
+  height: 58px;
+  top: 113px;
+  left: 1405px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .text {
+  position: relative;
+  align-self: stretch;
+  font-family: "HakgyoansimExt Wooju-Regular", Helvetica;
+  font-weight: 400;
+  color: #e9268d;
+  font-size: 24px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper {
+  font-family: "HakgyoansimExt Wooju-Regular", Helvetica;
+  font-weight: 400;
+  color: #e9268d;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 79px;
+  left: 0;
+  font-family: "HakgyoansimExt Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #e9268d;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 135px;
+  left: 0;
+  font-family: "HakgyoansimExt Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #e9268d;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 79px;
+  left: 82px;
+  font-family: "HakgyoansimExt Wooju-R", Helvetica;
+  color: #e9268d;
+  font-size: 32px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 135px;
+  left: 82px;
+  font-family: "HakgyoansimExt Wooju-R", Helvetica;
+  color: #e9268d;
+  font-size: 32px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  top: 135px;
+  left: 190px;
+  font-family: "HakgyoansimExt Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #e9268d;
+  font-size: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  -webkit-text-stroke: 1px #f7ff83;
+  background: linear-gradient(180deg, rgb(253, 124, 42) 0%, rgb(233, 38, 141) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: transparent;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-group {
+  position: absolute;
+  width: 1939px;
+  height: 3802px;
+  top: 1578px;
+  left: 0;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1939px;
+  height: 3739px;
+  top: 32px;
+  left: 0;
+}
+
+.desktop .image {
+  position: absolute;
+  width: 1728px;
+  height: 2070px;
+  top: 954px;
+  left: 0;
+}
+
+.desktop .ellipse {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 1618px;
+  left: 92px;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-2 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 1846px;
+  left: 92px;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-3 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 2487px;
+  left: 864px;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .path {
+  position: absolute;
+  width: 374px;
+  height: 607px;
+  top: 693px;
+  left: 614px;
+}
+
+.desktop .view-2 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 554px;
+  left: 25px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 500px;
+  height: 301px;
+  top: 398px;
+  left: 199px;
+}
+
+.desktop .ellipse-4 {
+  position: absolute;
+  width: 500px;
+  height: 301px;
+  top: 97px;
+  left: 97px;
+}
+
+.desktop .ellipse-5 {
+  position: absolute;
+  width: 54px;
+  height: 88px;
+  top: 508px;
+  left: 117px;
+}
+
+.desktop .view-3 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 0;
+  left: 905px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .view-4 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 1599px;
+  left: 905px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .ellipse-6 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 0;
+  left: 905px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-7 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 554px;
+  left: 25px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-8 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 1599px;
+  left: 905px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .path-2 {
+  position: absolute;
+  width: 173px;
+  height: 336px;
+  top: 683px;
+  left: 659px;
+}
+
+.desktop .ellipse-9 {
+  position: absolute;
+  width: 517px;
+  height: 133px;
+  top: 498px;
+  left: 1046px;
+  background-color: #0000007a;
+  border-radius: 258.5px/66.5px;
+}
+
+.desktop .ellipse-10 {
+  position: absolute;
+  width: 517px;
+  height: 133px;
+  top: 2157px;
+  left: 1046px;
+  background-color: #0000007a;
+  border-radius: 258.5px/66.5px;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  top: 1410px;
+  left: 108px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #f7ff83;
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .rectangle {
+  position: absolute;
+  width: 466px;
+  height: 465px;
+  top: 99px;
+  left: 1072px;
+}
+
+.desktop .rectangle-2 {
+  position: absolute;
+  width: 466px;
+  height: 647px;
+  top: 1585px;
+  left: 1072px;
+}
+
+.desktop .view-5 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 2939px;
+  left: 905px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .ellipse-11 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 2939px;
+  left: 905px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-12 {
+  position: absolute;
+  width: 588px;
+  height: 151px;
+  top: 3485px;
+  left: 1011px;
+}
+
+.desktop .rectangle-3 {
+  position: absolute;
+  width: 519px;
+  height: 506px;
+  top: 3039px;
+  left: 1045px;
+}
+
+.desktop .view-6 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 2153px;
+  left: 25px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .ellipse-13 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 2161px;
+  left: 25px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-14 {
+  position: absolute;
+  width: 517px;
+  height: 133px;
+  top: 2731px;
+  left: 166px;
+  background-color: #0000007a;
+  border-radius: 258.5px/66.5px;
+}
+
+.desktop .ellipse-15 {
+  position: absolute;
+  width: 517px;
+  height: 133px;
+  top: 1139px;
+  left: 166px;
+  background-color: #0000007a;
+  border-radius: 258.5px/66.5px;
+}
+
+.desktop .rectangle-4 {
+  position: absolute;
+  width: 438px;
+  height: 611px;
+  top: 597px;
+  left: 206px;
+}
+
+.desktop .rectangle-5 {
+  position: absolute;
+  width: 438px;
+  height: 698px;
+  top: 2100px;
+  left: 206px;
+}
+
+.desktop .path-3 {
+  position: absolute;
+  width: 322px;
+  height: 642px;
+  top: 662px;
+  left: 680px;
+}
+
+.desktop .image-2 {
+  top: 1674px;
+  left: 109px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .image-3 {
+  top: 1889px;
+  left: 109px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .image-4 {
+  top: 2542px;
+  left: 1491px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 1673px;
+  left: 248px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  top: 1888px;
+  left: 248px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  top: 2529px;
+  left: 1020px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .flexcontainer-2 {
+  gap: 8px;
+  width: 495px;
+  height: 56px;
+  top: 1772px;
+  left: 248px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .span-wrapper {
+  position: relative;
+  align-self: stretch;
+  font-family: "HakgyoansimExt Wooju-Regular";
+  color: #000000;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .span {
+  font-family: "HakgyoansimExt Wooju-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+}
+
+.desktop .flexcontainer-3 {
+  gap: 8px;
+  width: 495px;
+  height: 56px;
+  top: 1987px;
+  left: 248px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 495px;
+  top: 2628px;
+  left: 1020px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  top: 1719px;
+  left: 248px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  top: 1934px;
+  left: 248px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  top: 2575px;
+  left: 1020px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .group {
+  position: absolute;
+  width: 692px;
+  height: 890px;
+  top: 2684px;
+  left: 389px;
+}
+
+.desktop .overlap-wrapper {
+  position: absolute;
+  width: 636px;
+  height: 634px;
+  top: 1257px;
+  left: 1187px;
+  transform: rotate(60deg);
+}
+
+.desktop .overlap-3 {
+  position: relative;
+  width: 634px;
+  height: 634px;
+}
+
+.desktop .overlap-group-wrapper {
+  position: absolute;
+  width: 634px;
+  height: 634px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .overlap-group-2 {
+  position: relative;
+  width: 610px;
+  height: 599px;
+  top: 18px;
+  left: 11px;
+}
+
+.desktop .star {
+  width: 424px;
+  top: 92px;
+  left: 81px;
+  position: absolute;
+  height: 431px;
+  transform: rotate(-60deg);
+}
+
+.desktop .star-2 {
+  width: 419px;
+  top: 74px;
+  left: 109px;
+  position: absolute;
+  height: 431px;
+  transform: rotate(-60deg);
+}
+
+.desktop .text-wrapper-15 {
+  position: absolute;
+  width: 208px;
+  top: 253px;
+  left: 231px;
+  transform: rotate(-30deg);
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #000000;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .ellipse-16 {
+  position: absolute;
+  width: 191px;
+  height: 75px;
+  top: 1499px;
+  left: 109px;
+  background-color: #fff400;
+  border-radius: 95.5px/37.5px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .ellipse-17 {
+  position: absolute;
+  width: 191px;
+  height: 75px;
+  top: 2412px;
+  left: 856px;
+  background-color: #fff400;
+  border-radius: 95.5px/37.5px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-16 {
+  position: absolute;
+  top: 1515px;
+  left: 171px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #ffffff;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-17 {
+  position: absolute;
+  top: 2428px;
+  left: 918px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #ffffff;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-4 {
+  position: absolute;
+  width: 659px;
+  height: 457px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .ellipse-18 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 0;
+  left: 0;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-19 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 194px;
+  left: 0;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .image-5 {
+  top: 46px;
+  left: 25px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .image-6 {
+  top: 261px;
+  left: 25px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .text-wrapper-18 {
+  position: absolute;
+  top: 45px;
+  left: 164px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-19 {
+  position: absolute;
+  top: 260px;
+  left: 164px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .flexcontainer-4 {
+  gap: 8px;
+  width: 495px;
+  height: 56px;
+  top: 144px;
+  left: 164px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .flexcontainer-5 {
+  gap: 8px;
+  width: 495px;
+  height: 56px;
+  top: 359px;
+  left: 164px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .text-wrapper-20 {
+  position: absolute;
+  top: 91px;
+  left: 164px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-21 {
+  position: absolute;
+  top: 306px;
+  left: 164px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-22 {
+  position: absolute;
+  top: 3736px;
+  left: 24px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #f7ff83;
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 1728px;
+  height: 718px;
+  top: 679px;
+  left: 0;
+  background-color: #ffffff;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 1707px;
+  height: 608px;
+  top: 26px;
+  left: 21px;
+  background-image: url(./img/group-11.png);
+  background-size: 100% 100%;
+}
+
+.desktop .ellipse-20 {
+  position: absolute;
+  width: 160px;
+  height: 160px;
+  top: 220px;
+  left: 1523px;
+  background-color: #f7ff83;
+  border-radius: 80px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .rectangle-6 {
+  position: absolute;
+  width: 41px;
+  height: 76px;
+  top: 262px;
+  left: 1590px;
+}
+
+.desktop .text-wrapper-23 {
+  position: absolute;
+  top: 655px;
+  left: 83px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 32px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-24 {
+  position: absolute;
+  top: 655px;
+  left: 470px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 32px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-25 {
+  position: absolute;
+  top: 655px;
+  left: 842px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 32px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-26 {
+  position: absolute;
+  top: 655px;
+  left: 1219px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 32px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-7 {
+  position: absolute;
+  width: 1728px;
+  height: 160px;
+  top: 1px;
+  left: 1px;
+  background: linear-gradient(180deg, rgb(247, 255, 131) 17.35%, rgb(9, 229, 255) 88.23%);
+}
+
+.desktop .text-wrapper-27 {
+  position: absolute;
+  top: 37px;
+  left: 23px;
+  -webkit-text-stroke: 1px #fff400;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #ff0086;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-8 {
+  position: absolute;
+  width: 69px;
+  height: 52px;
+  top: 37px;
+  left: 131px;
+}
+
+.desktop .text-wrapper-28 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 1px #fff400;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #ff0086;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .line {
+  position: absolute;
+  width: 68px;
+  height: 5px;
+  top: 47px;
+  left: 1px;
+}
+
+.desktop .text-wrapper-29 {
+  position: absolute;
+  top: 37px;
+  left: 239px;
+  -webkit-text-stroke: 1px #fff400;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #ff0086;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-30 {
+  position: absolute;
+  top: 37px;
+  left: 381px;
+  -webkit-text-stroke: 1px #fff400;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #ff0086;
+  font-size: 36px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .view-7 {
+  position: absolute;
+  width: 246px;
+  height: 112px;
+  top: 22px;
+  left: 742px;
+}
+
+.desktop .text-wrapper-31 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  -webkit-text-stroke: 0.5px #f7ff83;
+  background: linear-gradient(180deg, rgb(253, 124, 42) 0%, rgb(233, 38, 141) 100%);
+  -webkit-background-clip: text !important;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: transparent;
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-32 {
+  position: absolute;
+  top: 88px;
+  left: 25px;
+  font-family: "HakgyoansimExt Wooju-R", Helvetica;
+  color: #e9268d;
+  font-size: 24px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .line-2 {
+  position: absolute;
+  width: 1679px;
+  height: 5px;
+  top: 395px;
+  left: 25px;
+}
+
+.desktop .line-3 {
+  position: absolute;
+  width: 3px;
+  height: 147px;
+  top: 238px;
+  left: 415px;
+}
+
+.desktop .line-4 {
+  position: absolute;
+  width: 3px;
+  height: 147px;
+  top: 238px;
+  left: 845px;
+}
+
+.desktop .line-5 {
+  position: absolute;
+  width: 3px;
+  height: 147px;
+  top: 238px;
+  left: 1275px;
+}
+
+.desktop .text-wrapper-33 {
+  position: absolute;
+  width: 208px;
+  top: 246px;
+  left: 25px;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #e9268d;
+  font-size: 40px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-34 {
+  position: absolute;
+  top: 458px;
+  left: 24px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #f7ff83;
+  font-size: 64px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-35 {
+  position: absolute;
+  top: 566px;
+  left: 24px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #f7ff83;
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-36 {
+  position: absolute;
+  top: 1496px;
+  left: 24px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  color: #f7ff83;
+  font-size: 48px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .flexcontainer-6 {
+  gap: 8px;
+  width: 223px;
+  height: 72px;
+  top: 275px;
+  left: 564px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .text-2 {
+  position: relative;
+  align-self: stretch;
+  font-family: "Hakgyoansim Wooju-Regular", Helvetica;
+  color: #000000;
+  font-size: 32px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-37 {
+  font-family: 'Hakgyoansim Wooju-R';
+  color: #000000;
+  font-size: 32px;
+  letter-spacing: 0;
+}
+
+.desktop .flexcontainer-7 {
+  gap: 8px;
+  width: 249px;
+  height: 72px;
+  top: 275px;
+  left: 980px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .flexcontainer-8 {
+  gap: 8px;
+  width: 249px;
+  height: 72px;
+  top: 275px;
+  left: 1414px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .text-wrapper-38 {
+  position: absolute;
+  top: 244px;
+  left: 480px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  font-weight: 400;
+  color: #f7ff83;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-39 {
+  left: 896px;
+  position: absolute;
+  top: 244px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  font-weight: 400;
+  color: #f7ff83;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-40 {
+  left: 1330px;
+  position: absolute;
+  top: 244px;
+  -webkit-text-stroke: 0.5px #000000;
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  font-weight: 400;
+  color: #f7ff83;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-9 {
+  position: absolute;
+  width: 1886px;
+  height: 2870px;
+  top: 5409px;
+  left: 25px;
+}
+
+.desktop .view-8 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 788px;
+  left: 495px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .view-9 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 1838px;
+  left: 879px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .view-10 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 556px;
+  left: 0;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .view-11 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 2070px;
+  left: 355px;
+  background-color: #ffffff;
+  border-radius: 400px;
+  border: 2px solid;
+  border-color: #000000;
+  box-shadow: 0px 4px 4px #00000080;
+}
+
+.desktop .ellipse-21 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 788px;
+  left: 495px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-22 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 1838px;
+  left: 879px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-23 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 556px;
+  left: 0;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-24 {
+  position: absolute;
+  width: 800px;
+  height: 800px;
+  top: 2070px;
+  left: 355px;
+  border-radius: 400px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(255, 244.8, 0) 51.78%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-25 {
+  position: absolute;
+  width: 521px;
+  height: 134px;
+  top: 1279px;
+  left: 634px;
+}
+
+.desktop .ellipse-26 {
+  position: absolute;
+  width: 521px;
+  height: 134px;
+  top: 2329px;
+  left: 1018px;
+}
+
+.desktop .ellipse-27 {
+  position: absolute;
+  width: 521px;
+  height: 134px;
+  top: 1047px;
+  left: 139px;
+}
+
+.desktop .ellipse-28 {
+  position: absolute;
+  width: 521px;
+  height: 134px;
+  top: 2561px;
+  left: 494px;
+}
+
+.desktop .rectangle-7 {
+  position: absolute;
+  width: 438px;
+  height: 690px;
+  top: 656px;
+  left: 676px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-8 {
+  position: absolute;
+  width: 438px;
+  height: 690px;
+  top: 1706px;
+  left: 1060px;
+  object-fit: cover;
+}
+
+.desktop .rectangle-9 {
+  position: absolute;
+  width: 438px;
+  height: 690px;
+  top: 424px;
+  left: 181px;
+}
+
+.desktop .rectangle-10 {
+  position: absolute;
+  width: 438px;
+  height: 690px;
+  top: 1938px;
+  left: 536px;
+  object-fit: cover;
+}
+
+.desktop .div-wrapper {
+  position: absolute;
+  width: 636px;
+  height: 634px;
+  top: 0;
+  left: 32px;
+}
+
+.desktop .overlap-group-3 {
+  position: relative;
+  width: 434px;
+  height: 455px;
+  top: 89px;
+  left: 100px;
+}
+
+.desktop .star-3 {
+  position: absolute;
+  width: 433px;
+  height: 412px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .star-4 {
+  position: absolute;
+  width: 433px;
+  height: 414px;
+  top: 41px;
+  left: 1px;
+}
+
+.desktop .text-wrapper-41 {
+  position: absolute;
+  width: 208px;
+  top: 253px;
+  left: 206px;
+  transform: rotate(-30deg);
+  font-family: "LOTTERIA DDAG-Regular", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 36px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 636px;
+  height: 634px;
+  top: 1301px;
+  left: 1134px;
+  transform: rotate(60deg);
+}
+
+.desktop .overlap-group-4 {
+  position: relative;
+  width: 612px;
+  height: 601px;
+  top: 16px;
+  left: 11px;
+}
+
+.desktop .star-5 {
+  position: absolute;
+  width: 424px;
+  height: 431px;
+  top: 95px;
+  left: 81px;
+  transform: rotate(-60deg);
+}
+
+.desktop .star-6 {
+  position: absolute;
+  width: 422px;
+  height: 431px;
+  top: 75px;
+  left: 108px;
+  transform: rotate(-60deg);
+}
+
+.desktop .ellipse-29 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 169px;
+  left: 641px;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-30 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 396px;
+  left: 906px;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .image-7 {
+  top: 212px;
+  left: 658px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .image-8 {
+  top: 439px;
+  left: 923px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .text-wrapper-42 {
+  position: absolute;
+  top: 211px;
+  left: 797px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-43 {
+  position: absolute;
+  top: 438px;
+  left: 1062px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .flexcontainer-9 {
+  gap: 8px;
+  width: 495px;
+  height: 56px;
+  top: 310px;
+  left: 797px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .text-wrapper-44 {
+  position: absolute;
+  width: 495px;
+  top: 537px;
+  left: 1062px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 24px;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-45 {
+  position: absolute;
+  top: 257px;
+  left: 797px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-46 {
+  position: absolute;
+  top: 484px;
+  left: 1062px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .ellipse-31 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 1800px;
+  left: 0;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .ellipse-32 {
+  position: absolute;
+  width: 591px;
+  height: 263px;
+  top: 1587px;
+  left: 242px;
+  border-radius: 295.5px/131.5px;
+  background: radial-gradient(50% 50% at 50% 50%, rgb(247, 255, 131) 33.34%, rgba(255, 255, 255, 0) 100%);
+}
+
+.desktop .image-9 {
+  top: 1846px;
+  left: 523px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .image-10 {
+  top: 1643px;
+  left: 765px;
+  position: absolute;
+  width: 114px;
+  height: 47px;
+}
+
+.desktop .text-wrapper-47 {
+  position: absolute;
+  top: 1839px;
+  left: 202px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-48 {
+  position: absolute;
+  top: 1626px;
+  left: 444px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #000000;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .flexcontainer-10 {
+  gap: 8px;
+  width: 423px;
+  height: 56px;
+  top: 1941px;
+  left: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .flexcontainer-11 {
+  gap: 8px;
+  width: 393px;
+  height: 56px;
+  top: 1728px;
+  left: 342px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+}
+
+.desktop .text-wrapper-49 {
+  position: absolute;
+  top: 1890px;
+  left: 151px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .text-wrapper-50 {
+  position: absolute;
+  top: 1677px;
+  left: 395px;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  font-weight: 400;
+  color: #000000;
+  font-size: 24px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .ellipse-33 {
+  position: absolute;
+  width: 191px;
+  height: 75px;
+  top: 12px;
+  left: 0;
+  background-color: #fff400;
+  border-radius: 95.5px/37.5px;
+  border: 1px solid;
+  border-color: #000000;
+}
+
+.desktop .text-wrapper-51 {
+  position: absolute;
+  top: 28px;
+  left: 62px;
+  -webkit-text-stroke: 1px #000000;
+  font-family: "Hakgyoansim Wooju-R", Helvetica;
+  color: #ffffff;
+  font-size: 40px;
+  white-space: nowrap;
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+}
